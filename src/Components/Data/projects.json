@@ -24,7 +24,7 @@
     "id": 4,
     "title": "Myntra-UI-Clone",
     "imageSrc": "projects/myntra.jpg",
-    "description": "This is a project made with complete React js. A machine learning project with a focus on Python, utilizing research-based methodologies.",
-    "source": "https://www.github.com"
+    "description": "I developed a UI clone of Myntra using React-Redux, closely mirroring the user interface of the original platform.",
+    "source": "https://github.com/prabhakarkumar07/React-Myntra-clone"
   }
 ]

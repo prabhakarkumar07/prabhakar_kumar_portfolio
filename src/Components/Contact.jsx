@@ -21,13 +21,13 @@ const Contact = () => {
             <FaGithubSquare className="icons" />
           </a>
 
-          <a href="https://twitter.com/home" className="items">
+          <a href="https://twitter.com/Prabhak64486413" className="items">
             <BsTwitterX className="icons" />
           </a>
           <a href="mailto:prabhakarkumarcs2023@gmail.com" className="items">
             <CgMail className="icons" />
           </a>
-          <a href="tel:8271960148" className="items">
+          <a href="tel:+918271960148" className="items">
             <IoCall className="icons" />
           </a>
         </div>
