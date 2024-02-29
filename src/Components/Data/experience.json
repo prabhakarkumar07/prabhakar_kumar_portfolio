@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Intern",
+    "organisation": "Compsoft Technologies ,",
+    "startDate": "Aug, 2022",
+    "endDate": "Sep, 2022",
+    "location": "Bangalore",
+    "experiences": [
+      "-Collaborated on a Machine Learning project with a focus on Python, utilizing research-based methodologies.",
+      "-Led a team in designing and implementing a dynamic website to showcase and utilize the prediction model.",
+      "-Improved forecasting accuracy by 20% through optimization of machine learning algorithms."
+    ],
+    "imageSrc": "company/compsoft.png"
+  }
+]

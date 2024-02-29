@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Food-order-management-system",
+    "imageSrc": "projects/food-order.jpg",
+    "description": "A user-friendly web application designed to streamline food order management and sales record-keeping.",
+    "source": "https://github.com/prabhakarkumar07/food-order-management-system"
+  },
+  {
+    "id": 2,
+    "title": "PG Life (PG Finder)",
+    "imageSrc": "projects/pg-logo.png",
+    "description": "Engineered 'PG Life,' a dynamic web application facilitating student search and booking of Paying Guest accommodations near college campuses.",
+    "source": "https://github.com/prabhakarkumar07/PG-Life"
+  },
+  {
+    "id": 3,
+    "title": "A Model for predicting demand and supply information of TOP crops.",
+    "imageSrc": "projects/crop-logo.png",
+    "description": "A machine learning project with a focus on Python, utilizing research-based methodologies.",
+    "source": "https://github.com/prabhakarkumar07/Crop-Prediction"
+  },
+  {
+    "id": 4,
+    "title": "Myntra-UI-Clone",
+    "imageSrc": "projects/myntra.jpg",
+    "description": "This is a project made with complete React js. A machine learning project with a focus on Python, utilizing research-based methodologies.",
+    "source": "https://www.github.com"
+  }
+]
