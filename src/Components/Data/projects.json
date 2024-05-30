@@ -26,5 +26,12 @@
     "imageSrc": "projects/myntra.jpg",
     "description": "I developed a UI clone of Myntra using React-Redux, closely mirroring the user interface of the original platform.",
     "source": "https://github.com/prabhakarkumar07/React-Myntra-clone"
+  },
+  {
+    "id": 5,
+    "title": "Eflyer-e-commerce ",
+    "imageSrc": "projects/hero_girl.jpg",
+    "description": "I developed a E commerce site using React-Redux, closely mirroring the user interface of the original platform.",
+    "source": "https://github.com/prabhakarkumar07/Eflyer-e-commerce"
   }
 ]

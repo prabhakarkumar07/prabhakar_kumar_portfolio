@@ -46,6 +46,7 @@ a {
 }
 
 .home .left {
+  margin-top: 10rem;
   background-color: rgb(36, 115, 155);
   width: 80%;
   text-align: center;
@@ -98,17 +99,18 @@ a {
     display: flex;
     flex-direction: column-reverse;
     margin-bottom: 50px;
+    margin-top: 20rem;
   }
 
   .home .left {
-    width: 150%; /* Full width on small screens */
+    width: 200%; /* Full width on small screens */
     margin-bottom: 10px; /* Adjust margin for separation */
     margin-left: 500px;
     margin-top: 10px 10px;
   }
 
   .home .right .img img {
-    width: 200px; /* Reduce image size on smaller screens */
+    width: 250px; /* Reduce image size on smaller screens */
     animation: none;
     margin-bottom: 50px;
     margin-top: 0;
@@ -128,6 +130,7 @@ a {
 }
 /* expereince section */
 .exp {
+  margin-top: 10rem;
   width: 900px;
 }
 .ex-items {
@@ -179,7 +182,12 @@ a {
   width: 70px;
 }
 /* project
+
  */
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 @media only screen and (max-width: 768px) {
   .projects {
     width: 885px;
@@ -198,6 +206,7 @@ a {
   }
   .card-body {
     min-width: 500px;
+    background-color: aqua;
   }
 }
 /* contact section */

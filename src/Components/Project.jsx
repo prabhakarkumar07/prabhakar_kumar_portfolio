@@ -16,7 +16,8 @@ const Project = () => {
               <div
                 className="card bg-dark text-light"
                 style={{
-                  width: "20rem",
+                  width: "16rem",
+                  height: "30rem",
                   border: "2px solid yellow",
                   boxShadow: "5px 5px 10px 10px rgba(101, 175, 10, 0.5)",
                 }}
