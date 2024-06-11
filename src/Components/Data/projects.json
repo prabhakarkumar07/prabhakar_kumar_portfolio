@@ -33,5 +33,12 @@
     "imageSrc": "projects/hero_girl.jpg",
     "description": "I developed a E commerce site using React-Redux, closely mirroring the user interface of the original platform.",
     "source": "https://github.com/prabhakarkumar07/Eflyer-e-commerce"
+  },
+  {
+    "id": 6,
+    "title": "Netflix-ul clone",
+    "imageSrc": "projects/netflix.png",
+    "description": "I developed a Netflix-ui-clone site using React-Redux, closely mirroring the user interface of the original platform.",
+    "source": ""
   }
 ]
